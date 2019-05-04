@@ -1,0 +1,41 @@
+10
+0
+V V
+V L
+F V
+1
+V L
+F F
+V V
+2
+L V
+F V
+P V
+3
+V V
+F P
+F L
+4
+F U
+V U
+L F
+5
+U U
+P P
+V V
+6
+U V
+U L
+U L
+7
+V V
+U P
+V V
+8
+V V
+P F
+V F
+9
+P V
+F P
+F P
